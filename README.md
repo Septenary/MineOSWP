@@ -1,4 +1,4 @@
 # MineOSWP
 Wallpapers for MineOS
 
-https://raw.githubusercontent.com/Septenary/MineOSWP/ XXXX .pic
+https://github.com/Septenary/MineOSWP/raw/master/ XXXX .pic
